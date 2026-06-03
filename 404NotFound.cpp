@@ -8,6 +8,6 @@ cin>>n;
 if(n==404){
     cout<<"NOT FOUND";
 }else{
-    cout
+    cout<<"FOUND";
 }
 }
